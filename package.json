@@ -60,7 +60,7 @@
     "webpack-cli": "3.3.10"
   },
   "dependencies": {
-    "@walletconnect/core": "^1.7.8",
+    "@walletconnect/core": "git@github.com:Digitapeu/walletconnect-core.git#main",
     "@walletconnect/iso-crypto": "^1.7.8",
     "@walletconnect/types": "^1.7.8",
     "@walletconnect/utils": "^1.7.8"
